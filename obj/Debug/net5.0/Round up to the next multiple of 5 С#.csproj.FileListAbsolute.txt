@@ -1,0 +1,16 @@
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\Round up to the next multiple of 5 С#.exe
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\Round up to the next multiple of 5 С#.deps.json
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\Round up to the next multiple of 5 С#.runtimeconfig.json
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\Round up to the next multiple of 5 С#.runtimeconfig.dev.json
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\Round up to the next multiple of 5 С#.dll
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\ref\Round up to the next multiple of 5 С#.dll
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\bin\Debug\net5.0\Round up to the next multiple of 5 С#.pdb
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.csproj.AssemblyReference.cache
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.AssemblyInfoInputs.cache
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.AssemblyInfo.cs
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.csproj.CoreCompileInputs.cache
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.dll
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\ref\Round up to the next multiple of 5 С#.dll
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.pdb
+C:\Users\Church\Desktop\Round up to the next multiple of 5 С#\obj\Debug\net5.0\Round up to the next multiple of 5 С#.genruntimeconfig.cache

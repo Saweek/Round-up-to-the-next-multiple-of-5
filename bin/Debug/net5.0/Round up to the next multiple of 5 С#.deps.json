@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Round up to the next multiple of 5 С#/1.0.0": {
+        "runtime": {
+          "Round up to the next multiple of 5 С#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Round up to the next multiple of 5 С#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
